@@ -1,1 +1,1 @@
-# mobitech
+"# OpenshiftSampleDotNetcore" 
